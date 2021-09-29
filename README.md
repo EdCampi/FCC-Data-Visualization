@@ -6,5 +6,5 @@ Proyectos:
 * [Heat Map](https://codepen.io/EdCampi/full/yLOGvRx)
 * [Choropleth Map](https://codepen.io/EdCampi/full/oNxVWaR)
 * [Treemap Diagram](https://codepen.io/EdCampi/full/GRZLoxG)
-\
+
 [Certificado](https://www.freecodecamp.org/certification/campi/data-visualization)
